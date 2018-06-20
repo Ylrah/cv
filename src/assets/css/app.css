@@ -20,12 +20,12 @@ table tr:first-child td {
 .card-block {
   padding: 1.25rem;
     font-weight: bold;
-       
+
 }
 .card-block{
     padding: 1.25rem;
     font-weight: bold;
-   
+
     opacity: 1;
     font-size: 1.25rem;
 }
@@ -61,7 +61,10 @@ ul.skills-list li {
 .card-header{
     font-weight: bold;
 }
-
+.position{
+  color: red;
+  font-size: 80%;
+}
 .card-header i.fa {
     margin-right: 5px;
 }
@@ -72,6 +75,7 @@ text-size-adjust: 3px;
 }
 .subtitulo{
     font-weight: bold;
+
 }
 
 .subtitulo,{
@@ -79,7 +83,6 @@ text-size-adjust: 3px;
     margin: 0;
 
 }
-
 .item {
     margin-bottom: 1.3rem;
 }
@@ -143,5 +146,5 @@ text-size-adjust: 3px;
 }
 .c{
     margin-left: 50px;
-    
+
 }

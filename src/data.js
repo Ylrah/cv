@@ -1,5 +1,5 @@
 export default {
-  name: 'Haarly GOMA',
+  name: 'Harly GOMA',
   photo: 'cat.gif',
   personalInfo: {
     // dni: '38.553.444',
@@ -36,7 +36,6 @@ export default {
       period: 'Feb 2013 - Sept 2016',
       place: 'Technicien informatique et support utilisateurs',
       position: 'Au sien du groupe ISF sur différents sites (ALENÇON, LE MANS, LOUÉ, SABLÉSUR-SARTHE…).Installations de postes clients, configuration serveur Windows 2008/2012,réparation de postes, renouvellement et recyclage de postes, accompagnement utilisateursur hard/softwares.',
-      description: 'Utilizando Symfony 3, Bootstrap, jQuery, HTML5 y bases de datos Oracle, PostgreSql y MySql',
 
 
     },
@@ -44,7 +43,6 @@ export default {
       period: 'Feb 2015 - actualidad',
       place: 'Ministerio de Salud de la Provincia de Buenos Aires',
       position: 'Desarrollador Web Symfony',
-      description: 'Utilizando Symfony 3, Bootstrap, jQuery, HTML5 y bases de datos Oracle, PostgreSql y MySql',
 
     }
   ],
