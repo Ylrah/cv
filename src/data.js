@@ -8,20 +8,21 @@ export default {
     voiture: 'Permis B'
   },
   contact: {
-    location: '28340 Roahire, France',
+    location: '28340 Rohaire, France',
     email: 'harly.goma@gmail.com',
     phone: '06-23-72-26-47',
     github: 'Ylrah'
   },
   studies: [
     {
-      degree: 'Etudiant développeur web & mobile',
+      period: 'Etudiant développeur web & mobile',
       place: 'Wild Code School-année 2018',
-      description: 'Programmation informatique, applications spécifiques'
+      position: 'Programmation informatique, applications spécifiques'
     },
     {
-      degree: 'Technicien supérieur réseau informatique',
+      period: 'Technicien supérieur réseau informatique',
       place: 'Groupe Supérieur de Formation ISF-année 2013-2016',
+      position: 'Réseaux informatique et Télécommunication'
 
     }
     //,
@@ -32,6 +33,7 @@ export default {
     //}
   ],
   experience: [
+
     {
       period: 'Feb 2013 - Sept 2016',
       place: 'Technicien informatique et support utilisateurs',
@@ -40,20 +42,28 @@ export default {
 
     },
     {
-      period: 'Feb 2015 - actualidad',
-      place: 'Ministerio de Salud de la Provincia de Buenos Aires',
-      position: 'Desarrollador Web Symfony',
+      period: 'Feb 2012 - 2013',
+      place: 'Technicien déploiment MMA ',
+      position: 'Installation des postes clients avec mise en place de migrations sur l’ensemble du territoire français.',
 
-    }
+    },
+    {
+      period: 'Nov 2011 - Déc 2011',
+      place: 'Stage Administrateur et responsable réseaux Adjoint au centre EPIDE d’Alençon',
+      position: 'Configuration de postes clients, création de compte utilisateur (Active Directory) Maintenance et installation de postes et matériels multimédias (rétroprojecteur vidéo, imprimante).',
+
+
+    },
+
   ],
 
 
   skills: [
     'Javascript', 'HTML5',
     'CSS3', 'Node.js',
-    'Bootstrap', 'Linux',
+    'Bootstrap 4', 'Linux',
     'Vue.js', 'Git',
-    'Android'
+    'Android', 'ionic', 'Angular.js', 'npm'
   ],
   languages: [
     {

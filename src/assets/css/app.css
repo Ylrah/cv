@@ -4,7 +4,7 @@ html {
 body {
     margin: 1rem .9rem;
     font-family: 'Roboto Mono', monospace !important;
-    background-image:url(/src/assets/wallpaper.jpg);
+    background-image:url(/src/assets/wallpaper.png);
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: 1920px 1080px;
@@ -62,8 +62,9 @@ ul.skills-list li {
     font-weight: bold;
 }
 .position{
-  color: red;
+  color: rgb(204, 0, 255);
   font-size: 80%;
+  margin-top: 0%;
 }
 .card-header i.fa {
     margin-right: 5px;
@@ -118,7 +119,7 @@ text-size-adjust: 3px;
 }
 
 .word {
-  color: #3BAFDA;
+  color: rgb(204, 0, 255);
 }
 
 .right, .left {
@@ -126,7 +127,7 @@ text-size-adjust: 3px;
   font-size: 80px;
   position: relative;
   top: 20px;
-  color: #3BAFDA;
+  color: rgb(204, 0, 255);
 
 
 }

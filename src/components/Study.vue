@@ -1,8 +1,9 @@
 <template lang="html">
-  <div class="study-item">
-    <h5>{{ study.degree }}</h5>
-    <p class="subtitulo">{{ study.place }}</p>
-    <p v-if="study.description" class="detalle">{{ study.description }}</p>
+   <div class="study-item">
+    <p>{{ study.period }}</p>
+    <h5>{{ study.place }}</h5>
+    <p class="position">{{ study.position }}</p>
+    <p class="detalle">{{ study.description }}</p>
   </div>
 </template>
 
